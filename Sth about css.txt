@@ -1,0 +1,6 @@
+CSS padding có các thuộc tính được sử dụng để tạo ra khoảng trống xung quanh nội dung.
+Font-style: Chỉnh font
+Font-size: Chỉnh cỡ chữ
+Text-align: Căn lề nội dung trong container
+Margin: Căn lề container
+Nếu viết: Object-position: 20px 20px 20px 20px -> Trên-Phải-Dưới-Trái (Theo chiều kim đồng hồ)
